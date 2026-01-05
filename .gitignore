@@ -1,0 +1,4 @@
+model_checkpoints/
+test/
+train/
+*.zip
