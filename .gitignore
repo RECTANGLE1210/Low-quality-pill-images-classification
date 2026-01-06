@@ -1,5 +1,7 @@
 model_checkpoints/
 test/
 train/
+wandb/
 *.zip
 *.csv
+*.pth 
